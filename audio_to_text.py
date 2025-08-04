@@ -4,7 +4,7 @@
 
 import os
 import logging
-from Embedder.config import settings  # load paths and models from centralized config
+from config import settings  # load paths and models from centralized config
 
 #-------------------------------------------------------------------------------------------------
 # Set up basic logger to track activity
