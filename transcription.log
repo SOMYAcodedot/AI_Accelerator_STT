@@ -1,0 +1,13 @@
+2025-08-04 12:04:00,386 — INFO — Transcripts folder ensured at: transcripts
+2025-08-04 12:04:00,386 — INFO — Found 5 audio files in 'audio_data'
+2025-08-04 12:04:00,386 — INFO — Processing: Oh you are a great.mp3
+2025-08-04 12:04:04,262 — INFO — Transcription saved as: Oh you are a great.txt
+2025-08-04 12:04:04,262 — INFO — Processing: The evening altogeth.mp3
+2025-08-04 12:04:06,248 — INFO — Transcription saved as: The evening altogeth.txt
+2025-08-04 12:04:06,248 — INFO — Processing: When Jane and Elizab.mp3
+2025-08-04 12:04:07,968 — INFO — Transcription saved as: When Jane and Elizab.txt
+2025-08-04 12:04:07,968 — INFO — Processing: _If he had had any c.mp3
+2025-08-04 12:04:10,030 — INFO — Transcription saved as: _If he had had any c.txt
+2025-08-04 12:04:10,030 — INFO — Processing: _Which do you mean a.mp3
+2025-08-04 12:04:13,674 — INFO — Transcription saved as: _Which do you mean a.txt
+2025-08-04 12:04:13,674 — INFO — All audio files processed successfully.
